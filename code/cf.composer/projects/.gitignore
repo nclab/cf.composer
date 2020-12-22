@@ -1,0 +1,10 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!STANDARD_project_00-48-00-571338900
+!PRESET_STATIC_project_07-48-11-101843600
+!PRESET_STATIC_project_08-01-07-301700900
+!PRESET_STATIC_project_08-03-04-013426600
+!PRESET_STATIC_project_08-03-23-761758600
+!PRESET_STATIC_project_08-03-33-183706900
