@@ -57,8 +57,7 @@ In this Style Model the cantus firmi are initiated with a four-note figure compr
 
 ----------
 
-Use
-___
+## Use
 
 Please cite
 
