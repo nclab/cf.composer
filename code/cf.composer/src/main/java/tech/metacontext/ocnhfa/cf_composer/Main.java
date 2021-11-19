@@ -52,7 +52,7 @@ public class Main {
                 .collect(Collectors.toMap(s -> s[0], s -> s[1]));
 
         var type = getParam(params.get("TYPE"),
-                PRESET_STATIC, ComposerType::valueOf);
+                STANDARD, ComposerType::valueOf);
 
         var thread_number = getParam(params.get("THREAD_NUMBER"),
                 type.equals(STANDARD) ? DEFAULT_THREAD_NUMBER * 100 : DEFAULT_THREAD_NUMBER,
